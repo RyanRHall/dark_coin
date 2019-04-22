@@ -1,0 +1,11 @@
+{
+  "zosversion": "2.2",
+  "name": "dark_coin",
+  "version": "0.1.0",
+  "contracts": {
+    "DarkCoin": "DarkCoin"
+  },
+  "dependencies": {
+    "openzeppelin-eth": "^2.1.3"
+  }
+}

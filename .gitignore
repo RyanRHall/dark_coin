@@ -1,0 +1,6 @@
+node_modules/*
+build/*
+
+# zos
+.zos.session
+zos.dev*
